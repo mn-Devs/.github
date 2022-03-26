@@ -14,6 +14,11 @@ Under here we've created a list full of online tools to make life easier for fro
 
 - https://codepen.io (place to get examples for front end web-development)
 
+- https://cssgrid-generator.netlify.app/ (easy to use tool to generate css grids)
+
+- https://dribbble.com/ (place to get design examples for front end web-development)
+
+
   
 
 ## Quick start for back-end web development:
