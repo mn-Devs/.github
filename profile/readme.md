@@ -19,6 +19,7 @@ Under here we've created a list full of online tools to make life easier for fro
 - https://dribbble.com/ (place to get design examples for front end web-development)
 
 - https://mycolor.space (css grandient generator)
+- https://neumorphism.io/#e0e0e0 (Soft ui generator)
 
 
   
